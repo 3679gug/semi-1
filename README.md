@@ -16,6 +16,9 @@
 2. `semi.ipynb` 파일을 통해 상세한 데이터 분석 과정을 확인할 수 있습니다.
 
 ## 👥 팀원
-- 3팀 팀장: 이다혜(AA) 팀원: 박수연(TA), 유성빈(DA), 윤나라(DA) @MDA04systack
+- 3팀 팀장: 이다혜(AA) 팀원: 박수연(TA), 유성빈(DA), 윤나라(DA)
+  <a href="https://github.com/MDA04systack">
+  <img src="https://github.com/MDA04systack.png" width="50px">
+</a>
 ---
 
