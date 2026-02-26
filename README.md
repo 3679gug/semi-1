@@ -3,15 +3,15 @@
 데이터 분석 결과 시각화 및 웹 대시보드 프로젝트입니다.
 **3팀**이 수행한 데이터 분석 과정과 결과를 웹 애플리케이션 형태로 제공합니다.
 
-## 🛠 Tech Stack
+## 🛠 기술
 
-### Environment & Language
+### 환경 & 언어
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 
-### Web Frontend
+### 웹 프론트엔드
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-### Deployment
+### 배포
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 
 <br>
